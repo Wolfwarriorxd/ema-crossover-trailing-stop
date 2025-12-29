@@ -67,6 +67,8 @@ ema-crossover-trailing-stop/
 ├── README.md
 └── requirements.txt
 
+pip install -r requirements.txt
+
 3. Open the Jupyter notebook in the `notebook/` directory and run the cells sequentially.
 
 ---
